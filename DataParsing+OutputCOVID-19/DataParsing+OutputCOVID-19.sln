@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataParsing+Output_COVID-19", "DataParsing+OutputCOVID-19\DataParsing+Output_COVID-19.csproj", "{DBC6CC28-0852-42E3-88D0-AB34F1AE4E20}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "downloader", "..\..\downloader\downloader\downloader\downloader.csproj", "{38097E99-1121-4A0D-B673-1EA4863A7D5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid-19_InputOutputData", "..\..\downloader\downloader\downloader\Covid-19_InputOutputData.csproj", "{38097E99-1121-4A0D-B673-1EA4863A7D5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DBC6CC28-0852-42E3-88D0-AB34F1AE4E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DBC6CC28-0852-42E3-88D0-AB34F1AE4E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DBC6CC28-0852-42E3-88D0-AB34F1AE4E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DBC6CC28-0852-42E3-88D0-AB34F1AE4E20}.Release|Any CPU.Build.0 = Release|Any CPU
 		{38097E99-1121-4A0D-B673-1EA4863A7D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{38097E99-1121-4A0D-B673-1EA4863A7D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38097E99-1121-4A0D-B673-1EA4863A7D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
